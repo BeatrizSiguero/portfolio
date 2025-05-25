@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
     padding: 0;
     text-align: center;
@@ -7,14 +7,13 @@ body {
 }
 
 header {
-    background-color: #002244;
-    color: white;
+    color: black;
     padding: 1em;
     text-align: center;
 }
 
 nav a {
-    color: white;
+    color: black;
     margin: 0 1em;
     text-decoration: none;
 }
@@ -25,7 +24,7 @@ main {
 
 footer {
     text-align: center;
-    background-color: #ddd;
+    background-color: #b9b4e6;
     padding: 1em;
-    margin-top: 35.4em;
+    margin-top: 4rem;
 }
